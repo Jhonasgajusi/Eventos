@@ -1,0 +1,15 @@
+[
+  {
+    "titulo": "Evento de Música",
+    "fecha": "22/08 - 21:00hs",
+    "lugar": "La Lucila del Mar",
+    "imagen": "https://miweb.com/evento1.jpg",
+    "enlace": "https://miweb.com/entradas-musica"
+  },
+  {
+    "titulo": "Competencia de Patín",
+    "fecha": "13/09 - 18:00hs",
+    "lugar": "Mar de Ajó",
+    "imagen": "https://miweb.com/evento2.jpg"
+  }
+]
