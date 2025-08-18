@@ -3,18 +3,18 @@
     "titulo": "Evento de Música",
     "fecha": "22/08 - 21:00hs",
     "lugar": "La Lucila del Mar",
-    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/refs/heads/main/imagenes/evento1.jpg"
-  }
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento1.jpg"
+  },  // <--- COMA AÑADIDA
   {
     "titulo": "Competencia de Patín",
     "fecha": "13/09 - 18:00hs",
     "lugar": "Mar de Ajó",
-    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/refs/heads/main/imagenes/evento2.jpg"
-  }
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento2.jpg"
+  },  // <--- COMA AÑADIDA
   {
     "titulo": "competencia de consoladores",
     "fecha": "21/09 - 20:00hs",
     "lugar": "san bernardo",
-    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/refs/heads/main/imagenes/evento3.jpg"
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento3.jpg"
   }
 ]
