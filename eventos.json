@@ -1,22 +1,65 @@
 [
   {
-    "titulo": "Evento de Música",
-    "fecha": "22/08 - 21:00hs",
-    "lugar": "La Lucila del Mar",
-    "descripcion": "evento en la lucila con toda la musica al palo",
+    "titulo": "GALA DEL BALLET DE LA COSTA",
+    "fecha": "SEPTIEMBRE FINES DE SEMANA",
+    "lugar": "Espacio Multicultural, MAR DE AJO",
+    "descripcion": "Con casi 27 años de historia esta tradicional gala es un encuentro cultural único que celebra la danza en todas sus formas",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento1.jpg"
   },
   {
-    "titulo": "Competencia de Patín",
-    "fecha": "13/09 - 18:00hs",
+    "titulo": "CONGRESO INTERNACIONAL DE SALVAMENTO ACUÁTICO Y SOCORRISMO CISAS",
+    "fecha": "OCTUBRE SEGUNDO FIN DE SEMANA",
     "lugar": "Mar de Ajó",
+    "descripcion": "Tres días de acción, aprendizaje y compromiso. En un entorno costero donde la prevención y el rescate son parte del día a día, este congreso reúne a quienes eligen cuidar la vida como vocación."
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento2.jpg"
   },
   {
-    "titulo": "competencia de consoladores",
-    "fecha": "21/09 - 20:00hs",
-    "lugar": "san bernardo",
-    "descripcion": "super pelea con consoladores en mano",
+    "titulo": "FIESTA NACIONAL DE LA CORVINA NEGRA",
+    "fecha": "OCTUBRE SEGUNDO FIN DE SEMANA",
+    "lugar": "San Clemente del Tuyu",
+    "descripcion": "Cada año, miles de personas se acercan a San Clemente del Tuyú para vivir esta fiesta histórica, profundamente arraigada en la identidad de los costeros.",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento3.jpg"
+  },
+  {
+    "titulo": "FESTIVAL DE HALLOWEN FIESTA Y DIVERSION",
+    "fecha": "NOVIEMBRE PRIMER FIN DE SEMANA",
+    "lugar": "San Bernardo",
+    "descripcion": "Festival de hallowen, fiesta, tragos cantentes y mucho mas, producido por GaJuSi TV",
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento4.png"
+  }
+  {
+    "titulo": "FIESTA PROVINCIAL DE LA NAÚTICA Y EL MAR",
+    "fecha": "NOVIEMBRE PRIMER FIN DE SEMANA",
+    "lugar": "Mar del Tuyu",
+    "descripcion": "Tres días vibrantes en la plaza central, donde el mar se siente cerca y la comunidad se une para celebrar su identidad.",
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento5.jpg"
+  }
+  {
+    "titulo": "FIESTA PATRONAL SAN CLEMENTE ROMANO",
+    "fecha": "NOVIEMBRE TERCER FIN DE SEMANA",
+    "lugar": "San Clemente del Tuyu",
+    "descripcion": "La celebración del aniversario de San Clemente del Tuyú se vive en la Reserva Municipal Vivero Cosme Argerich, un espacio natural único.",
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento6.jpg"
+  }
+   {
+    "titulo": "FIESTA NACIONAL DE LA CORVINA RUBIA",
+    "fecha": "NOVIEMBRE TERCER FIN DE SEMANA",
+    "lugar": "Mar de Ajo",
+    "descripcion": "Celebra con nosotros la llegada de este emblemático pescado y el inicio de la temporada estival en La Costa.",
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento7.jpg"
+  }
+  {
+    "titulo": "PRE COSQUIN",
+    "fecha": "NOVIEMBRE CUARTO   FIN DE SEMANA",
+    "lugar": "Santa Teresita",
+    "descripcion": "La pasión por el folklore se vive en La Costa. Cada año, artistas de todo el país llegan a Santa Teresita con un mismo sueño.",
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento7.jpg"
+  }
+  {
+    "titulo": "MARATÓN DIVERSAMENTEPOSIBLES",
+    "fecha": "NOVIEMBRE CUARTO   FIN DE SEMANA",
+    "lugar": "Costa del Este",
+    "descripcion": " ¡Ponete las zapatillas y sumate a una carrera única donde todos somos protagonistas! Esta maratón inclusiva convoca a runners con y sin discapacidad, en un recorrido pensado para que cada paso sea un acto de igualdad",
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento8.jpg"
   }
 ]
