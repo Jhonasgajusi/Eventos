@@ -10,7 +10,7 @@
     "titulo": "CONGRESO INTERNACIONAL DE SALVAMENTO ACUÁTICO Y SOCORRISMO CISAS",
     "fecha": "OCTUBRE SEGUNDO FIN DE SEMANA",
     "lugar": "Mar de Ajó",
-    "descripcion": "Tres días de acción, aprendizaje y compromiso. En un entorno costero donde la prevención y el rescate son parte del día a día"
+    "descripcion": "Tres días de acción, aprendizaje y compromiso. En un entorno costero donde la prevención y el rescate son parte del día a día", // <<-- COMA AÑADIDA
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento2.jpg"
   },
   {
@@ -26,89 +26,89 @@
     "lugar": "San Bernardo",
     "descripcion": "Festival de hallowen, fiesta, tragos cantentes y mucho mas, producido por GaJuSi TV",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento4.png"
-  }
+  },
   {
     "titulo": "FIESTA PROVINCIAL DE LA NAÚTICA Y EL MAR",
     "fecha": "NOVIEMBRE PRIMER FIN DE SEMANA",
     "lugar": "Mar del Tuyu",
     "descripcion": "Tres días vibrantes en la plaza central, donde el mar se siente cerca y la comunidad se une para celebrar su identidad.",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento5.jpg"
-  }
+  },
   {
     "titulo": "FIESTA PATRONAL SAN CLEMENTE ROMANO",
     "fecha": "NOVIEMBRE TERCER FIN DE SEMANA",
     "lugar": "San Clemente del Tuyu",
     "descripcion": "La celebración del aniversario de San Clemente del Tuyú se vive en la Reserva Municipal Vivero Cosme Argerich, un espacio natural único.",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento6.jpg"
-  }
+  },
    {
     "titulo": "FIESTA NACIONAL DE LA CORVINA RUBIA",
     "fecha": "NOVIEMBRE TERCER FIN DE SEMANA",
     "lugar": "Mar de Ajo",
     "descripcion": "Celebra con nosotros la llegada de este emblemático pescado y el inicio de la temporada estival en La Costa.",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento7.jpg"
-  }
+  },
   {
     "titulo": "PRE COSQUIN",
     "fecha": "NOVIEMBRE CUARTO   FIN DE SEMANA",
     "lugar": "Santa Teresita",
     "descripcion": "La pasión por el folklore se vive en La Costa. Cada año, artistas de todo el país llegan a Santa Teresita con un mismo sueño.",
-    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento7.jpg"
-  }
+    "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento7.jpg"  // Nota: evento7.jpg repetida, puede ser intencional o un error.
+  },
   {
     "titulo": "MARATÓN DIVERSAMENTEPOSIBLES",
     "fecha": "NOVIEMBRE CUARTO   FIN DE SEMANA",
     "lugar": "Costa del Este",
     "descripcion": " ¡Ponete las zapatillas y sumate a una carrera única donde todos somos protagonistas! Esta maratón inclusiva convoca a runners con y sin discapacidad, en un recorrido pensado para que cada paso sea un acto de igualdad",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento8.jpg"
-  }
+  },
   {
     "titulo": " FESTIVAL Y CAMPEONATO DE TANGO SON Y SERÁN",
     "fecha": "DICIEMBRE PRIMER FIN DE SEMANA",
     "lugar": "Mar de Ajó",
-    "descripcion": "Cada año, en el Día Nacional del Tango, La Costa se transforma en la capital del tango argentino. “Son y Serán” es una celebración que honra nuestra danza más emblemática y rinde homenaje a los héroes de Malvinas"
+    "descripcion": "Cada año, en el Día Nacional del Tango, La Costa se transforma en la capital del tango argentino. “Son y Serán” es una celebración que honra nuestra danza más emblemática y rinde homenaje a los héroes de Malvinas", // <<-- COMA AÑADIDA
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento10.jpg"
   },
 {
     "titulo": "ARGENTINA SALSA CONGRESS",
     "fecha": "DICIEMBRE PRIMER FIN DE SEMANA",
     "lugar": "San Clemente del Tuyu",
-    "descripcion": " La Costa se convierte en la capital del ritmo y la pasión con la mayor celebración de salsa y música caribeña del año."
+    "descripcion": " La Costa se convierte en la capital del ritmo y la pasión con la mayor celebración de salsa y música caribeña del año.", // <<-- COMA AÑADIDA
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento11.jpg"
   },
 {
     "titulo": "FLIPPAS: Festival de poesia y prosa",
     "fecha": "DICIEMBRE PRIMER FIN DE SEMANA",
     "lugar": "Nueva Atlantis",
-    "descripcion": "Un encuentro cultural único que celebra la libertad de expresión a través de la poesía, la narrativa y las artes performáticas."
+    "descripcion": "Un encuentro cultural único que celebra la libertad de expresión a través de la poesía, la narrativa y las artes performáticas.", // <<-- COMA AÑADIDA
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento12.jpg"
   },
 {
     "titulo": "FIESTA ANIVERSARIO DE NUEVA ATLANTIS",
     "fecha": "DICIEMBRE PRIMER FIN DE SEMANA",
     "lugar": "Nueva Atlantis",
-    "descripcion": "Un evento al aire libre en medio de un bosque de pinos, ideal para disfrutar con amigos, en pareja o en familia, con música en vivo y aromas que despiertan el paladar."
+    "descripcion": "Un evento al aire libre en medio de un bosque de pinos, ideal para disfrutar con amigos, en pareja o en familia, con música en vivo y aromas que despiertan el paladar.", // <<-- COMA AÑADIDA
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento13.jpg"
   },
 {
     "titulo": "FIESTA NACIONAL DEL SOL Y LA FAMILIA ",
     "fecha": "DICIEMBRE SEGUNDO FIN DE SEMANA",
     "lugar": "San Bernardo",
-    "descripcion": "La Fiesta de Apertura de la Temporada Estival celebra el inicio de la temporada de verano y destaca por su enfoque en la promoción turística de la localidad."
+    "descripcion": "La Fiesta de Apertura de la Temporada Estival celebra el inicio de la temporada de verano y destaca por su enfoque en la promoción turística de la localidad.", // <<-- COMA AÑADIDA
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento14.jpg"
   },
   {
     "titulo": "Gajusi Fest",
     "fecha": "DICIEMBRE TERCER FIN DE SEMANA",
     "lugar": "San Bernardo",
-    "descripcion": "Se viene la segunda entrega de la fiesta mas sarpada de San Bernardo, shows en vivo, bandas, musica tragos y mucho mas GAJUSI Emblema de la costa"
+    "descripcion": "Se viene la segunda entrega de la fiesta mas sarpada de San Bernardo, shows en vivo, bandas, musica tragos y mucho mas GAJUSI Emblema de la costa",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento15.png"
   },
   {
     "titulo": " SANTA TERESITA CUP",
     "fecha": "DICIEMBRE TERCER FIN DE SEMANA",
     "lugar": "Santa Teresita",
-    "descripcion": "El torneo de fútbol infanto-juvenil ofrece una experiencia única de seis días, combinando la emoción del deporte con oportunidades de intercambio cultural e integración social."
+    "descripcion": "El torneo de fútbol infanto-juvenil ofrece una experiencia única de seis días, combinando la emoción del deporte con oportunidades de intercambio cultural e integración social.",
     "imagen": "https://raw.githubusercontent.com/Jhonasgajusi/Eventos/main/imagenes/evento16.jpg"
-  },
+  }
 ]
